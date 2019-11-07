@@ -1,0 +1,9 @@
+{
+    "apps": [
+        {
+            "name": "vijay-react",
+            "script": "node_modules/react-scripts/bin/react-scripts.js",
+            "args" : "start"
+        }
+    ]
+}

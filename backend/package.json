@@ -1,0 +1,23 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cookie-parser": "^1.4.3",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "express-session": "^1.15.6",
+    "jsonwebtoken": "^8.4.0",
+    "mysql": "^2.16.0",
+    "nodemon": "^1.19.4"
+  },
+  "devDependencies": {
+    "concurrently": "^4.0.1"
+  },
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "Sagar Yadav",
+  "license": "ISC"
+}

@@ -1,0 +1,4 @@
+npm run build
+npm install -g serve --save
+npm install serve --save
+serve -s build

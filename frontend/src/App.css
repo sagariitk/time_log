@@ -1,0 +1,52 @@
+.footer {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    padding: 3px;
+    height: 30px;
+    text-align: center;
+    
+}
+
+/* 
+.body-item {
+    text-align: center;
+} */
+
+
+body {
+    height: 100%;
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+}
+
+.header {
+    text-decoration: none;
+}
+
+.navbar {
+    text-transform:uppercase;
+    text-decoration: none;
+}
+
+/* .navbar:focus {
+    text-transform:uppercase;
+    text-Decoration: none;
+}
+.navbar:hover {
+    text-transform:uppercase;
+    text-decoration: none;
+}
+.navbar:visited {
+    text-transform:uppercase;
+    text-Decoration: 'none';
+}
+.navbar:link {
+    text-transform:uppercase;
+    text-Decoration: 'none';
+}
+.navbar:active {
+    text-transform:uppercase;
+    text-Decoration: 'none';
+} */
