@@ -1,7 +1,7 @@
 # time_log
-# pre requisite node version 8.14.0
+# Pre requisite node version 8.14.0
 
-To run:
+# To run:
 
 1. clone the repo
 2. cd time_log
@@ -10,7 +10,7 @@ To run:
 5 cd ../frontend
 6. npm install && npm start
 
-Head to localhost:3000 for web app
+#Head to localhost:3000 for web app
 
 
 
