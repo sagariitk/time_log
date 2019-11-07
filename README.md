@@ -10,7 +10,7 @@
 5 cd ../frontend
 6. npm install && npm start
 
-#Head to localhost:3000 for web app
+# Head to localhost:3000 for web app
 
 
 
