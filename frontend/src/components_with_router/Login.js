@@ -65,7 +65,7 @@ export default class Login extends React.Component {
                     <h1>Login Componnet</h1>
                     <form onSubmit={this.login}>
                         <input type="text" name="username" placeholder="username"></input><br></br>
-                        <input type="text" name="password" placeholder="password"></input><br></br>
+                        <input type="password" name="password" placeholder="password"></input><br></br>
                         <button>Login</button>
                     </form> 
                 </div>
